@@ -1,0 +1,12 @@
+.fragment {
+  width: 500px;
+  margin: 0 auto;
+  /* background-color: aquamarine; */
+}
+
+.Contact__finder {
+  height: 30px;
+  width: 300px;
+  font-size: 20px;
+  margin: 0 auto;
+}

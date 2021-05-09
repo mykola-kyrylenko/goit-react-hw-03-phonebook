@@ -1,0 +1,23 @@
+.ContactList__list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-items: flex-start;
+}
+
+.ContactList__list__item {
+  padding-left: 10px;
+  width: 350px;
+  align-items: center;
+  display: flex;
+  /* border: 1px solid black; */
+}
+
+.ContactList__delete__button {
+  background-color: #ff3d3d;
+  margin-left: 10px;
+  height: 25px;
+  border-radius: 10px;
+  font-weight: 700;
+  outline: inherit;
+}

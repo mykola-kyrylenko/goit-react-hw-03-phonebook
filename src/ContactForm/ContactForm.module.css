@@ -1,0 +1,28 @@
+.ContactForm__container {
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+  border: 1px solid black;
+  padding: 20px;
+  font-size: 30px;
+}
+
+.ContactList__add__button {
+  padding: 10px;
+  background-color: #4bb543;
+  margin-top: 20px;
+  border-radius: 25px;
+  border-color: indianred;
+  font-size: medium;
+  /* border-style: outset; */
+  font-weight: 700;
+  outline: inherit;
+}
+
+.ContactForm__input {
+  height: 30px;
+  width: 300px;
+  font-size: 20px;
+}
